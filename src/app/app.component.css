@@ -1,0 +1,81 @@
+.html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 500px;
+    width:350px;
+    height:800px;
+    background-image: linear-gradient(rgb(255, 200, 200),rgb(129, 9, 89));
+}
+
+.header{
+    width: 300px;
+    background-color: #ff6565;
+    background-image: linear-gradient(to bottom right,rgb(255, 147, 147), rgb(255, 47, 47));
+    border-bottom-left-radius: 20px;
+    height: 100px;
+    margin-left: 25px;
+}
+.name{
+    background-color: rgb(235, 231, 231);
+    width: 260px;
+    height: 70px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top:-30px
+}
+.activate{
+    height: 250px;
+    border-radius: 10px;
+    width: 300px;
+    background-image: linear-gradient(rgb(240, 3, 149),rgb(93, 0, 93));
+    margin-left: 25px;
+}
+.school{
+    color: white;
+    text-align:justify;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.adrin{
+    color: white;
+    text-align:justify;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.white{
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-top: 5px;
+    
+}
+.alignr{
+    color: rgb(255, 255, 255);
+    float: right;
+    padding-right:10px ;
+}
+.per{
+    font-size: 70px;
+    color: white;
+    padding-left: 5px;
+    float: left;
+    font:bolder;
+}
+.ann{
+    color:white;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+.price{
+    font-size: 40px;
+    color: white;
+    padding-left: 15px;
+    float: left;
+}
+
+
+.button{
+    float:right;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 30px;
+
+}
